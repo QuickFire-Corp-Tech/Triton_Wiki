@@ -31,7 +31,7 @@ Open the language file of the plugin you want to translate
 ![image](https://github.com/QuickFire-Corp-Tech/Triton_Wiki/assets/74217586/0b3a8991-3d4f-4194-86cc-ef1d14aca33e)
 
 <h3 align="center">Цветавые коды | Color codes</h3>
-Не в зависимости от того, как реализованы цвета в плагине, в Тритоне используйтся <u>стандартные коды</u> майнкрафта
+Не в зависимости от того, как реализованы цвета в плагине, в Тритоне используйтся <u>стандартные коды</u> майнкрафта<br>
 Regardless of how the colors are implemented in the plugin, Triton uses <u>standard minecraft codes</u>
 
 ![image](https://github.com/QuickFire-Corp-Tech/Triton_Wiki/assets/74217586/9080577c-5952-48a8-af6a-75ac72d14559)
